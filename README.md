@@ -1,0 +1,1 @@
+This project aims to predict the likelihood of diabetes in patients using machine learning techniques. The model is trained on medical data, including factors such as age, BMI, glucose levels, and other relevant health indicators.
